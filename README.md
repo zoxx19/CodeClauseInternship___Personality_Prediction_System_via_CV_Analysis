@@ -12,3 +12,8 @@ The personality prediction can help streamline recruiting by filtering candidate
  * Try deep learning approaches like CNNs or RNNs
  * Optimize ensemble and stacking techniques
  * Expand beyond text to analyze other application material
+## Reference:
+* https://www.ijert.org/personality-prediction-via-cv-analysis-using-machine-learning
+* https://www.kaggle.com/datasets/pavlorymarchuk/test3434?select=train.csv
+* https://www.kaggle.com/datasets/anuvagoyal/resume-pdf?select=AnuvaGoyal_Latex.pdf
+* https://www.kaggle.com/datasets/anuvagoyal/resume-pdf?select=AnuvaGoyal_Latex.pdf
